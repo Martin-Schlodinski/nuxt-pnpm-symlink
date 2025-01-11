@@ -1,2 +1,11 @@
 shamefully-hoist=true
 ignore-workspace-root-check=true
+hoist=true
+node-linker=hoisted
+symlink=false
+dedupe-direct-deps=true
+dedupe-injected-deps=false
+hoist-workspace-packages=false
+inject-workspace-packages=true
+prefer-symlinked-executables=false
+shared-workspace-lockfile=false

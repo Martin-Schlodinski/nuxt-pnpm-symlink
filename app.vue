@@ -1,10 +1,3 @@
-<template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
-</template>
-
 
 <script setup>
 import { SerialPort } from 'serialport';
